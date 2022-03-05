@@ -1,0 +1,9 @@
+TOKEN = 'OTQ5NjYzMDkxODgzNDA1MzMy.YiNorA.Z4vSeF9E1pIN2KWl-g7Ub0mkWQk'
+prefix = "-"
+log_channel = 949671922529107988
+admin = 'GOD'
+save_guild = 949183113567826000
+main_invite = "https://discord.gg/ztkFpTcqHM"
+icon = "https://i.pinimg.com/564x/5a/bf/a7/5abfa708211fbe2a696df5bf77b7cd90.jpg"
+developer = "829595137914175539"
+bot_name = "CatWorld"
